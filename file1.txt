@@ -1,0 +1,3 @@
+this is git practice 
+javed! it is editable through github
+LINE 3 added thru CLI
